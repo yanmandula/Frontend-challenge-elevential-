@@ -1,6 +1,6 @@
 # Desafio Elevential
 
-1- Adorei, posso dizer que em praticamente 2 dias aprendi mais que em 1 mês só na teroia, de fato a melhor maneira de aprender é praticando.
+1- Adorei, posso dizer que em praticamente 2 dias aprendi mais que em 1 mês só na teoria, de fato a melhor maneira de aprender é praticando.
 
 2 - O meu maior desafio foi alinhar e organizar as validações porque ainda não me desenvolvi tanto em javascript, por isso optei por usar jquery.
 
