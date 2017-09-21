@@ -1,0 +1,93 @@
+body {
+	background-color: #2FCD85;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+.box {
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	background-color: white;
+}
+
+.box-border {
+	border: 1px solid #c5c5c5;		
+	-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+	-moz-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+	box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.btn-close{
+	float: right;
+	font-size: 35px;
+	background-color: transparent;
+	border: none;
+	margin: 10px;
+}
+h1{
+	font-size: 35px;
+	font-family: 'Roboto', sans-serif;
+}
+.login{
+	
+	margin: 34px;
+	height: auto;
+}
+.check{
+	width: 50%;
+	height: auto;	
+	float: left;
+	margin-top: 50px;
+	text-align: center;
+}
+.check button{
+	width: 150px;
+	height: 54px;
+	border: none;
+	border-radius: 500px;
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	color: white;
+	background-color: #3554d1;
+}
+.check p{
+	font-size: 10px;
+	
+}
+.check p a{
+	font-size: 10px;
+	text-decoration: none;
+}
+.msglogin{
+	display: block;
+}
+
+.inputs {
+	width: 50%;
+	float: left;
+}
+
+
+form input{
+	border: none;
+	border-bottom: 2px solid black;
+	font-size: 13px;
+	width: 100%;
+}
+
+.inputs a{
+	font-size: 10px;
+	text-decoration: none;
+	float: right;
+	color: black;
+}
